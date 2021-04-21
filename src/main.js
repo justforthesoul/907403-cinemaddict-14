@@ -7,8 +7,6 @@ import {createFilmListTemplate} from './view/film-list-template';
 import {createShowMoreButtonTemplate} from './view/show-more-button-template';
 import {createFilmDetailsTemplate} from './view/film-details.template';
 
-// renderElement(item, createElement(createNativeSelectMarkup(options)));
-
 const allMoves = {
   isExtra: false,
   cardCounter: 5,
